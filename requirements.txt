@@ -1,5 +1,2 @@
-import streamlit as st
-import random
-import time
-import plotly.graph_objects as go
-from datetime import datetime
+streamlit>=1.32.0
+plotly>=5.20.0
