@@ -1,1 +1,1 @@
-sistema de rolagem de daos para rpg
+sistema de rolagem de dados para rpg
